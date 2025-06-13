@@ -1,6 +1,9 @@
 📚 Book Management Dashboard
 A React + Vite dashboard for managing books. Supports full CRUD operations with modals, filters, pagination, and responsive UI using Tailwind CSS and Radix UI components.
 
+🚀 Live Preview (Optional)
+You can deploy this app to Vercel, Netlify, or GitHub Pages and add a live link here.
+
 🔹 Features
 📖 View list of books in a paginated grid/table
 
@@ -29,3 +32,5 @@ Styling: Tailwind CSS
 Routing: React-Router-DOM
 Animations:	Framer Motion
 Icons:	Lucide React
+
+
